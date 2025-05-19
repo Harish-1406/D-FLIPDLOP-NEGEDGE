@@ -59,6 +59,7 @@ endmodule
 
 ```
 **RTL LOGIC FOR FLIPFLOPS**
+
 ![image](https://github.com/user-attachments/assets/0a840f2a-010e-4d97-bcc2-3f713729d5f7)
 
 
